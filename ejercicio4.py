@@ -2,4 +2,8 @@
 
 
 def do_math(cadena)
-    numeros=
+    numeros=cadena.split()
+    numeros11=numeros[]  
+    letras=[]
+    for i in numeros:
+
