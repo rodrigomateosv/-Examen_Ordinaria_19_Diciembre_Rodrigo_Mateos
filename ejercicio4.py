@@ -10,4 +10,6 @@ def do_math(cadena)
       letras.append(numero[:1]])
         
     numeros11.sort()
-    .sort()
+     numeros= []
+    for i in range(len(numeros11)):   
+      numeros.append(numeros11[i])
